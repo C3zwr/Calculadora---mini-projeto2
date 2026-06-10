@@ -1,1 +1,2 @@
-# Calculadora---mini-projeto2
+🧮 Calculadora - Mini-projeto 2
+"Uma calculadora digital funcional com interface limpa e intuitiva. O projeto vai além do visual, envolvendo a captura de eventos de clique nos botões numéricos e de operações, tratamento de strings para exibir os dados no visor em tempo real e a execução de operações matemáticas dinâmicas. Um ótimo exercício para consolidação de lógica de programação e tratamento de dados inseridos pelo usuário."
